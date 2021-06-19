@@ -1,0 +1,71 @@
+input {
+  outline: 0;
+  border-width: 0 0 2px;
+  border-color: #e0e0e0;
+  font-size: 15px;
+  width: 42.5%;
+  margin-top: 30px;
+  padding-bottom: 10px;
+  
+}
+.selectCount {
+  all: unset;
+  padding-right: 15px;
+  border-bottom: 2px solid #e0e0e0;
+  background: url("https://www.zera.co.zw/wp-content/uploads/2019/09/drop_down_icon.png")
+    no-repeat right;
+  background-size: 16px;
+  font-size: 15px;
+  font-weight: 500;
+  width: 42%;
+  margin-top: 20px;
+  padding-bottom: 10px;
+}
+.button {
+  background-color: #3a1b44;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: 500;
+  margin-top: 20px;
+  border-radius: 5px;
+}
+.buttonWhite {
+  background-color: lightgrey;
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-left: 28%;
+  margin-top: 20px;
+  border-radius: 5px;
+  font-weight: 500;
+}
+.buttonBlue {
+  background-color: rgb(31, 216, 216);
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-top: 20px;
+  border-radius: 5px;
+  width: 250px;
+  font-weight: 500;
+}
+textarea {
+  margin-top: 20px;
+  width: 91%;
+  height: 200px;
+  font-size: 16px;
+  font-weight: 300;
+}
